@@ -1,13 +1,18 @@
 {
 	"name": "components/dropzone",
 	"description": "Shim repository for Dropzone",
-	"type": "library",
+	"type": "drupal-library",
 	"homepage": "https://github.com/dropzone/dropzone",
 	"authors": [{
 		"name": "Matias Meno",
 		"email": "m@tias.me",
 		"homepage": "http://www.matiasmeno.com"
 	}],
+	"extra": {
+	    "installer-name": "dropzone"
+	},
 	"license": "MIT",
-	"minimum-stability": "dev"
+	"require": {
+	    "composer/installers": "~1.0"
+	}
 }
