@@ -1,6 +1,7 @@
 {
 	"name": "components/dropzone",
 	"description": "Shim repository for Dropzone",
+	"type": "library",
 	"homepage": "https://github.com/dropzone/dropzone",
 	"authors": [{
 		"name": "Matias Meno",
