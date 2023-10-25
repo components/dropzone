@@ -1,0 +1,12 @@
+{
+	"name": "components/dropzone",
+	"description": "Shim repository for Dropzone",
+	"homepage": "https://github.com/dropzone/dropzone",
+	"authors": [{
+		"name": "Matias Meno",
+		"email": "m@tias.me",
+		"homepage": "http://www.matiasmeno.com"
+	}],
+	"license": "MIT",
+	"minimum-stability": "dev"
+}
